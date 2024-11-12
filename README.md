@@ -91,6 +91,7 @@ The Alphabet Learning App displays images for each letter and reads out the lett
 2. Download Images Locally: Download images for each letter, save them in an images folder inside the project directory, and name them A.jpg, B.jpg, etc.
 ## Image URLs
 Here are the URLs for each letter’s image. To use, ensure alphabet_data references these URLs in your code.
+ ```python
 alphabet_data = {
     'A': {'word': 'Apple', 'image_url': 'https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg'},
     'B': {'word': 'Ball', 'image_url': 'https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png'},
@@ -100,6 +101,7 @@ alphabet_data = {
     'F': {'word': 'Fish', 'image_url': 'https://upload.wikimedia.org/wikipedia/commons/1/17/Goldfish3.jpg'},
     # Add URLs for other letters similarly
 }
+ ```
 ## Usage
 Run the application:
  ```bash
