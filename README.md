@@ -105,11 +105,15 @@ Run the application:
  ```bash
 python alphabet_app.py
  ````
-# Navigation:
-# Next Button: Go to the next letter.
-# Back Button: Go to the previous letter.
-# Exit: Press ESC to exit.
-# Audio Pronunciation: Each letter is accompanied by audio. Ensure your system volume is on.
+## Navigation:
+   # Next Button: 
+      Go to the next letter.
+   # Back Button: 
+      Go to the previous letter.
+   # Exit: 
+      Press ESC to exit.
+   # Audio Pronunciation: 
+      Each letter is accompanied by audio. Ensure your system volume is on.
 
 ## Folder Structure
 ```bash
@@ -139,10 +143,9 @@ Allow users to adjust the speed of the image "dancing" animation to suit differe
 Improve the GUI by adding backgrounds, additional color schemes, and animations.
 ## Contributing
 Contributions are welcome! Here’s how to get started:
-
-Fork the repository.
-Create a new branch with a descriptive name (e.g., feature/add-sound-effects).
-Make your changes and commit them with clear messages.
-Submit a pull request.
+1. Fork the repository.
+2. Create a new branch with a descriptive name (e.g., feature/add-sound-effects).
+3. Make your changes and commit them with clear messages.
+4. Submit a pull request.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
