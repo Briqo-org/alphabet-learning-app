@@ -24,7 +24,7 @@ This section explains how to launch the Alphabet Learning App and navigate its f
    - **Back Button**: Click the **Back** button to go to the previous letter.
 
 3. **Listening to Pronunciation**:
-   - Ensure your device’s sound is enabled to hear the text-to-speech pronunciation for each letter and word.
+   - Ensure your device’s sound can hear the text-to-speech pronunciation for each letter and word.
 
 4. **Exiting the App**:
    - To exit, press the **ESC** key on your keyboard.
@@ -84,7 +84,7 @@ The Alphabet Learning App displays images for each letter and reads out the lett
 2. **Install Dependencies: Ensure Python is installed. Then install required libraries**:
     ```bash
     pip install pygame
-    pillow gtts requests
+    pip3 install pillow gtts requests
 ## Image URLs
 # Image Setup:
 1. Use URLs: The app includes preset URLs for each letter's image (see Image URLs section).
